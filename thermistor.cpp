@@ -47,7 +47,7 @@
 #else
 #define ADC_RESOLUTION 1023
 #endif
-#define VERBOSE_SENSOR_ENABLED 1
+// #define VERBOSE_SENSOR_ENABLED 1
 /**
  * THERMISTOR
  * 
